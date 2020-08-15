@@ -1,4 +1,5 @@
 <img src=hashgen.png></img>
+<img src=hashgen-err.png></img>
 # HashGenerator
 Python script to turn specified password into SHA-512 crypt() hash. 
 
